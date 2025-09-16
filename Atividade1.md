@@ -40,5 +40,7 @@ Agora seu portfólio está online e acessível por qualquer pessoa.
 
 ---
 
-### 📁 Exemplo de estrutura de arquivos
+## ENTREGA:
+
+https://github.com/DalvanaRibeiro/UC14241N--Publicar-e-testar-aplicacoes-Web/discussions/1
 
