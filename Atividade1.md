@@ -42,5 +42,5 @@ Agora seu portfólio está online e acessível por qualquer pessoa.
 
 ## ENTREGA:
 
-https://github.com/DalvanaRibeiro/UC14241N--Publicar-e-testar-aplicacoes-Web/discussions/1
+[Coloque o link do Deploy Aqui](https://github.com/DalvanaRibeiro/UC14241N--Publicar-e-testar-aplicacoes-Web/discussions/1)
 
